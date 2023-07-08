@@ -12,11 +12,6 @@ const theme: Theme = (props) => {
     logo: <div style={{ fontSize: '20px' }}>use-selection-extra</div>,
     topNavs: [
       {
-        label: 'Components',
-        path: '/components',
-        activeIfMatch: '/components',
-      },
-      {
         label: 'Hooks',
         path: '/hooks',
         activeIfMatch: '/hooks',
