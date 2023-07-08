@@ -9,7 +9,7 @@ const theme: Theme = (props) => {
   const { loadedData, loadState } = props
 
   const DocTheme = createTheme({
-    logo: <div style={{ fontSize: '20px' }}>pkg-name</div>,
+    logo: <div style={{ fontSize: '20px' }}>use-selection-extra</div>,
     topNavs: [
       {
         label: 'Components',
@@ -22,8 +22,8 @@ const theme: Theme = (props) => {
         activeIfMatch: '/hooks',
       },
       {
-        label: 'pkg-name',
-        href: 'https://github.com/yunsii/starter-vite-react-library',
+        label: 'use-selection-extra',
+        href: 'https://github.com/yunsii/use-selection-extra',
       },
     ],
     sideNavs: (ctx) => {

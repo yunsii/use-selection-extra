@@ -4,6 +4,11 @@ settings:
   autoInstallPeers: true
   excludeLinksFromLockfile: false
 
+dependencies:
+  selection-extra:
+    specifier: ^0.0.4
+    version: 0.0.4
+
 devDependencies:
   '@antfu/eslint-config':
     specifier: ^0.35.3
@@ -8988,6 +8993,13 @@ packages:
       extend-shallow: 2.0.1
       kind-of: 6.0.3
     dev: true
+
+  /selection-extra@0.0.4:
+    resolution:
+      {
+        integrity: sha512-8Gfy25YNy6fIAwz/VCq5T9QTSrRgIpNMpvonZmrAvTgNAJJ/zdfNl9d1lrgQ8KuSIyeolQu91+OgCk7v/KB/1Q==,
+      }
+    dev: false
 
   /semver@5.7.1:
     resolution:
