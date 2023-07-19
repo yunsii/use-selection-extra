@@ -6,8 +6,8 @@ settings:
 
 dependencies:
   selection-extra:
-    specifier: ^0.0.4
-    version: 0.0.4
+    specifier: ^0.0.5
+    version: 0.0.5
 
 devDependencies:
   '@antfu/eslint-config':
@@ -8994,10 +8994,10 @@ packages:
       kind-of: 6.0.3
     dev: true
 
-  /selection-extra@0.0.4:
+  /selection-extra@0.0.5:
     resolution:
       {
-        integrity: sha512-8Gfy25YNy6fIAwz/VCq5T9QTSrRgIpNMpvonZmrAvTgNAJJ/zdfNl9d1lrgQ8KuSIyeolQu91+OgCk7v/KB/1Q==,
+        integrity: sha512-bYH8Uw72kNMYOLLDvo078i9LPyoCdFd95y9RS5rYomVj55+9dU5mIX9MV1/wOOBYoOjIfBqb2QSFa4xTt/hfhA==,
       }
     dev: false
 
