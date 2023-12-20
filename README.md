@@ -15,7 +15,7 @@
 
 ## Related
 
-- [selection-extra](https://github.com/yunsii/use-selection-extra) - DOM selection manipulation.
+- [selection-extra](https://github.com/yunsii/selection-extra) - DOM selection manipulation.
 
 ## License
 
